@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals by the proprietors of East-Jersey in America for the building of a tovvn on Ambo-Point, and for the disposition of lands in that province and also for encouragement of artificers and labourers that shall transport themselves thither out of England, Scotland, and Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56024</idno><idno type="EEBO-CITATION">99833865</idno>
+  <idno type="VID">38343</idno>
+  <idno type="EEBO-PROQUEST">2240953112</idno>
+  
+            <idno type="STC">Wing P3717</idno>
+            <idno type="STC">ESTC R222722</idno>
+            <idno type="PROQUEST">99833865</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833865e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38343)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2213:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals by the proprietors of East-Jersey in America for the building of a tovvn on Ambo-Point, and for the disposition of lands in that province and also for encouragement of artificers and labourers that shall transport themselves thither out of England, Scotland, and Ireland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark in George-Yard in Lombard-street, bookseller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII. [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">City planning --  New Jersey --  Early works to 1800.</term>
+               <term type="topical_term">Land subdivision --  New Jersey --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38343:1"/>
+            <p>PROPOSALS BY THE PROPRIETORS OF East-Jersey IN AMERICA, For the BUILDING of a TOVVN ON <hi>Ambo-Point,</hi> And for the Disposition of Lands in that PROVINCE.</p>
+            <p>AND ALSO For Encouragement of Artificers and Labourers that shall Transport themselves thither out of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lombard-street,</hi> Bookseller, MDCLXXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38343:2"/>
+            <pb n="1" facs="tcp:38343:2"/>
+            <head>PROPOSASLS BY THE PROPRIETORS OF East-Jersey IN AMERICA, For BUILDING of a TOWN ON <hi>Ambo-Point.</hi>
+            </head>
+            <p>FOrasmuch as <hi>Ambo-point</hi> is a Sweet, Wholsom and delightful Place, proper for <hi>Trade,</hi> by reason of its Commodious Scituation upon a safe <hi>Har<g ref="char:EOLhyphen"/>bour;</hi> being likewise accommodated with a <hi>Navi<g ref="char:EOLhyphen"/>gable River,</hi> and fresh Water; and hath by many Persons of the greatest Experience and best Judgment, been ap<g ref="char:EOLhyphen"/>proved
+<pb n="2" facs="tcp:38343:3"/> for the goodness of the <hi>Air, Soyl,</hi> and <hi>Scitua<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>We</hi> the <hi>Proprietors</hi> propose, by the help of <hi>Almighty God,</hi> with all convenient speed, to build a Convenient <hi>Cown</hi> for <hi>Merchandize, Trade</hi> and <hi>Fishery</hi> on <hi>Ambo-point.</hi>
+            </p>
+            <div type="part">
+               <head>And because Persons, that hath a desire to <hi>Plant</hi> there, may not be disappointed for want of <hi>Proposals, We</hi> the <hi>Proprietors</hi> offer these following:</head>
+               <p>
+                  <hi>First,</hi> We intend to divide Fifteen Hundred Acres of <hi>Land</hi> upon <hi>Ambo-point</hi> into One hundred and fifty Lots, which Lots shall consist of Ten Acres the Lot. One hundred of the Lots we are willing to sell here, and fifty we reserve for such as are in <hi>America,</hi> and have long desired to setle there.</p>
+               <p>
+                  <hi>Secondly,</hi> The price of each Lot will be Fifteen pounds <hi>Sterling,</hi> to such who Purchase before the 25 of <hi>December,</hi> 1682. And to such who Purchase afterwards, before the 25 of <hi>December,</hi> 1683. Twenty pounds <hi>Sterling.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Every Lot, is to be as equally divided as the goodness of the Place doth require, and the <hi>Scituation</hi> can admit.</p>
+               <p>
+                  <hi>Fourthly,</hi> The most Convenient Spot of Ground for a <hi>Town,</hi> shall be divided in One hundred and fifty Equal Shares, and Set out into Streets, according to Rules of <hi>Art;</hi> and no Person shall be preferred before another in Choice, whether <hi>Purchaser</hi> or <hi>Proprietor.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> We reserve Four Acres for a <hi>Market-place, Town-House,</hi> &amp;c. and three Acres for Publique <hi>Whar<g ref="char:EOLhyphen"/>fage.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> Each <hi>Purchaser</hi> is obliged to Build a <hi>Dwel<g ref="char:EOLhyphen"/>ling-House</hi> in the Place designed for the Town, and to Clear Three Acres of <hi>Vp-land</hi> in three Years, or else the <hi>Proprietors</hi> to be Re-instated in such Lots wherein default is made, repaying the Purchase Money.</p>
+               <pb n="3" facs="tcp:38343:3"/>
+               <p>
+                  <hi>Seventhly,</hi> We the <hi>Proprietors</hi> do within a Year hope, by God's Assistance, to Build for each of us one <hi>House</hi> upon <hi>Ambo-point,</hi> which we intend shall stand in an Orderly manner, according to the best and most Convenient <hi>Model.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>And in pursuance of the Design of the <hi>Propo<g ref="char:EOLhyphen"/>sitions</hi> abovesaid.</head>
+               <p>
+                  <hi>Eighthly,</hi> ANd for the Encouragement of <hi>Carpenters, Joyners, Brick</hi> and <hi>Tyle-makers, Brick-layers, Masons, Sawyers,</hi> and <hi>Labourers</hi> of all sorts, who are wil<g ref="char:EOLhyphen"/>ling to go and employ themselves and Servants in helping to Clear Ground, and Build Houses upon the General Ac<g ref="char:EOLhyphen"/>count of and for the <hi>Proprietors.</hi>
+               </p>
+               <p>The said <hi>Proprietors</hi> will engage to find them Work, and Currant Pay for the same in Money or Clothes, and Provision, of which there is Plenty (as <hi>Beef, Pork, Corn,</hi> &amp;c.) according to the Market-price at <hi>New-York,</hi> during the space of one Year, at least, next after the 25 of <hi>December,</hi> 1682. in which time (through God's blessing and their Industry) they may have got wherewith to buy <hi>Cows, Horses, Hoggs,</hi> and other <hi>Goods</hi> to Stock that <hi>Land</hi> which (they) in the mean time may take up according to the Concessions. Neither shall such Persons pay Rent for their said <hi>Land,</hi> so long as they are Employed in the <hi>Proprietors</hi> Work; and their <hi>Wages</hi> shall at all times be so much as other such <hi>Artificers</hi> and <hi>Labourers</hi> in the said <hi>Province</hi> usually have; nor shall they be obliged to <hi>Work</hi> for the <hi>Proprietors</hi> longer than they find encouragement so to do.</p>
+               <p>
+                  <hi>Ninthly,</hi> And for the more ready and certain Employing those <hi>Work-men</hi> and <hi>Labourers,</hi> that shall Transport them<g ref="char:EOLhyphen"/>selves to <hi>East-Iersey,</hi> This is to let all <hi>Labourers</hi> and <hi>Persons,</hi> that shall Transport themselves, <hi>Know,</hi> They must
+<pb n="4" facs="tcp:38343:4"/> upon their Arrival upon that Place, repair to the <hi>Register</hi> of the abovesaid <hi>Province,</hi> and Enter themselves accord<g ref="char:EOLhyphen"/>ing to their respective Qualities and Designs; and thereupon they shall be entertained into the <hi>Service</hi> and <hi>Pay</hi> of the Proprietors.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>FOR DISPOSITION OF LAND IN <hi>East-Iersey.</hi>
+            </head>
+            <p>THE <hi>Governour</hi> of <hi>East-Iersey,</hi> by and with the Advice of his <hi>Council,</hi> is to direct, That all <hi>Lands</hi> to be Set and laid out for <hi>Counties, Tribes, Cities,</hi> or <hi>Parishes,</hi> according to the <hi>General Concessions</hi> of the said <hi>Province,</hi> be bounded and Set out in manner following, <hi>Viz.</hi> That all such <hi>Lands</hi> be divided into Seven equal Lots or Parts; one of which seven Parts, is to be first Set out by Lot for the use of the <hi>Proprietors;</hi> and the other Six Parts to be taken up according to the following <hi>Concessions.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> That the Planting of the said <hi>Province</hi> may be the more effectually promoted, <hi>We</hi> do hereby grant unto all Persons who shall Transport themselves, their Wives or Children, into <hi>East-Iersey,</hi> and setle there ac<g ref="char:EOLhyphen"/>cording to the following Concessions, by the Twenty
+<pb n="5" facs="tcp:38343:4"/> fifth of <hi>December,</hi> 1684. Twenty five Acres of <hi>Land</hi> for each <hi>Head,</hi> whether Wife, Child or Servant shall be bound to serve the Term of three Years, at the least, within the said <hi>Province;</hi> and for every such Master of a Family fifty Acres. The said Persons so <hi>Imported</hi> are to be <hi>Registred</hi> in the <hi>Secretaries Book of Entries,</hi> to be kept for that Pur<g ref="char:EOLhyphen"/>pose; and the <hi>Importer</hi> to pay to the <hi>Secretary</hi> for Fees of attending that <hi>Service</hi> and <hi>Entring</hi> them 12 <hi>d.</hi> each Head. And each Servant, Male or Female, who shall be so <hi>Imported</hi> and <hi>Registred</hi> by the Twenty fifth of <hi>December,</hi> 1684. shall at the expiration of their Time, have liberty to take up the quantity of Thirty Acres for their own uses. And all the aforesaid <hi>Importers,</hi> and Persons <hi>Imported,</hi> who are here<g ref="char:EOLhyphen"/>by allowed to take up <hi>Land,</hi> shall have and enjoy the same under the Terms and Concessions following:</p>
+            <p>
+               <hi>Secondly,</hi> For as much as this <hi>Province</hi> is already consi<g ref="char:EOLhyphen"/>derably <hi>Peopled</hi> and <hi>Improved</hi> (there being seven <hi>Towns</hi> at least already setled upon it by <hi>English <hi>People</hi>
+               </hi>) and that no Person is constrain'd by our <hi>Concessions,</hi> to take up and pay for <hi>Land</hi> which is <hi>Barren</hi> and unprofitable; nor can it be reasonably supposed, that <hi>people</hi> should in this <hi>Province</hi> be now exposed to the like <hi>hazards</hi> and <hi>difficulties</hi> that others must look to meet with in those <hi>Plantations</hi> that are less <hi>In<g ref="char:EOLhyphen"/>habited</hi> and more remote, and for <hi>Scituation</hi> by <hi>Sea</hi> and <hi>Land,</hi> not so commodiously placed for <hi>Trade;</hi> Therefore we think it very reasonable and moderate, that all and every Person and Persons shall have his and their respective quanti<g ref="char:EOLhyphen"/>ties of <hi>Land,</hi> set out at Two pence an Acre yearly Rent, to be paid into our <hi>Receivers Office,</hi> either in Money <hi>Ster<g ref="char:EOLhyphen"/>ling,</hi> or in such <hi>Commodities</hi> as the Growth or Trade of the <hi>Province</hi> offords at the Merchants price there. But who<g ref="char:EOLhyphen"/>soever is willing to buy off his yearly Rent, and become a <hi>Free-holder,</hi> may so do, paying after the rate of Twelve years Purchase, which comes to 50 <hi>s.</hi> for a Lot of Twenty five Acres; and so paying after the same rate for a greater or lesser quantity.</p>
+            <pb n="6" facs="tcp:38343:5"/>
+            <p>
+               <hi>Thirdly,</hi> And for as much as it will be most commodious for <hi>Planters</hi> to live together, whereby they may be a meet help to each other. It is Ordered that all the Purchasers and Takers up of <hi>Land,</hi> shall sit down by some <hi>Villiage</hi> or <hi>Township,</hi> already laid out or to be laid out hereafter in the said Province; and having chosen the <hi>Village</hi> or <hi>Township</hi> which shall be most convenient and profitable for their Bu<g ref="char:EOLhyphen"/>siness, the <hi>Surveyor General</hi> shall set forth to the said Per<g ref="char:EOLhyphen"/>sons such quantity of <hi>Lands,</hi> to them Granted, out of the aforesaid Six Parts which are not then taken up, they paying to the said <hi>Surveyor General,</hi> the usual rate of Surveying in the said <hi>Province.</hi> And if any Person going or sending over; is willing to have a greater Parcel of <hi>Land</hi> than 25 Acres, he may Purchase, but not more than 1000 Acres, he paying down, at the Sealing of his Grant, for the same after the rate of Ten pounds by the hundred Acres; and so more or less for a greater or lesser quantity.</p>
+            <p n="4">4. And if any Person is willing to buy <hi>Land,</hi> and yet for the present is not disposed to Plant there, he may so do, paying down here for his Grant to the <hi>Proprietors,</hi> ac<g ref="char:EOLhyphen"/>cording to the rate aforesaid.</p>
+            <q>Provided, That all those <hi>Persons,</hi> who by these <hi>Concessions,</hi> shall take up <hi>Land</hi> be enjoyn'd to Build one <hi>Dwelling-House</hi> on some part of their <hi>Land,</hi> within the space of seven. Years next after the <hi>25</hi> of <hi>December, 1682.</hi> And in case of Default, one half of their <hi>Land</hi> to return back to the <hi>Proprietors.</hi>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
